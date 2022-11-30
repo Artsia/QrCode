@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "https://fonts.google.com/specimen/Outfit)";
+    font-weight: 400;
+    
+  }
+
+  .container{
+    margin: 10% 30%;
+    border-radius: 10%;
+    border: 1px solid;
+    height: auto;
+    width: auto;
+    background-color: hsl(0, 0%, 100%);
+  
+  
+  }
+
+  .container #drimgDiv{
+    border-radius: 10%;
+    background-repeat: no-repeat;
+    width: auto;
+
+  }
+
+  .container #drimgDiv img{
+      margin:10% 7% ;
+      width: 85%;
+      border-radius: 10%;
+  }
+
+  #wordSection h4{
+  
+    margin:10% 15% ;
+    color: hsl(218, 44%, 22%);
+    
+  }
+
+  #wordSection p {
+  
+  margin:10% 15% ;
+  color: hsl(220, 15%, 55%);
+  
+}
